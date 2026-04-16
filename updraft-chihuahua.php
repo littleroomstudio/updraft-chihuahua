@@ -3,6 +3,7 @@
  * Plugin Name:        Chihuahua for UpdraftPlus
  * Plugin URI:         https://github.com/littleroomstudio/updraft-chihuahua
  * GitHub Plugin URI:  https://github.com/littleroomstudio/updraft-chihuahua
+ * Primary Branch:     main
  * Description:        Sends a lil bark (email) if your nightly UpdraftPlus backups haven't run.
  * Version:            1.0.0
  * Author:             Little Room
